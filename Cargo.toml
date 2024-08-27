@@ -1,0 +1,21 @@
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[workspace]
+
+members = [
+    "rusty",
+    "boks",
+    "drop",
+    "rct",
+    "weak",
+    "channels",
+    "mutex",
+    "play",
+    "not_so_safe",
+    "adv_traits",
+    "adv_types",
+    "lurklurk",
+    "closures"
+, "iterator", "playground", "cons_list", "ref_cell", "smart_pointers", "weak_refs"]
+
+resolver = "2"
