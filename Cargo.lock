@@ -15,6 +15,10 @@ name = "blog_post"
 version = "0.1.0"
 
 [[package]]
+name = "blog_post_sans_oops"
+version = "0.1.0"
+
+[[package]]
 name = "boks"
 version = "0.1.0"
 

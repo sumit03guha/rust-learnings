@@ -16,6 +16,6 @@ members = [
     "adv_types",
     "lurklurk",
     "closures"
-, "iterator", "playground", "cons_list", "ref_cell", "smart_pointers", "weak_refs", "threads", "gui", "blog_post"]
+, "iterator", "playground", "cons_list", "ref_cell", "smart_pointers", "weak_refs", "threads", "gui", "blog_post", "blog_post_sans_oops"]
 
 resolver = "2"
